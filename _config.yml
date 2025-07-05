@@ -3,8 +3,8 @@ title: RyaninCn11's Blog
 SEOTitle: RyaninCn11 的博客 | RyaninCn11's Blog
 header-img: img/home-bg.jpg
 email: me@ryanincn11.me
-description: ""
-keyword: ""
+description: "Hate C++, understand C++, use C++"
+keyword: "Blog"
 url: "https://ryanincn11.me"              # your host, for absolute URL
 baseurl: "/"         # for example, '/blog' if your blog hosted on 'host/blog'
 
