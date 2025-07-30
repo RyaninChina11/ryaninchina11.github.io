@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>First Time on RyaninChina11&#39;s blog</title>
+        <link>https://ryanincn11.me/en/tags/first-time/</link>
+        <description>Recent content in First Time on RyaninChina11&#39;s blog</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en</language>
+        <copyright>RyaninChina11</copyright>
+        <lastBuildDate>Mon, 28 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://ryanincn11.me/en/tags/first-time/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Blog opened!</title>
+        <link>https://ryanincn11.me/en/post/my-first-post/</link>
+        <pubDate>Mon, 28 Jul 2025 00:00:00 +0000</pubDate>
+        
+        <guid>https://ryanincn11.me/en/post/my-first-post/</guid>
+        <description>&lt;p&gt;Hello, Internet!&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>

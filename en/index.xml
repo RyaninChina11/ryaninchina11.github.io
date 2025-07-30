@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>RyaninChina11&#39;s blog</title>
+        <link>https://ryanincn11.me/en/</link>
+        <description>Recent content on RyaninChina11&#39;s blog</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en</language>
+        <copyright>RyaninChina11</copyright>
+        <lastBuildDate>Mon, 28 Jul 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://ryanincn11.me/en/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>About</title>
+        <link>https://ryanincn11.me/en/about/</link>
+        <pubDate>Mon, 28 Jul 2025 00:00:00 +0000</pubDate>
+        
+        <guid>https://ryanincn11.me/en/about/</guid>
+        <description>&lt;p&gt;RyaninChina11 (also known as RyaninCn11) is merely an coder.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Archives</title>
+        <link>https://ryanincn11.me/en/archives/</link>
+        <pubDate>Mon, 28 Jul 2025 00:00:00 +0000</pubDate>
+        
+        <guid>https://ryanincn11.me/en/archives/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Blog opened!</title>
+        <link>https://ryanincn11.me/en/post/my-first-post/</link>
+        <pubDate>Mon, 28 Jul 2025 00:00:00 +0000</pubDate>
+        
+        <guid>https://ryanincn11.me/en/post/my-first-post/</guid>
+        <description>&lt;p&gt;Hello, Internet!&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Links</title>
+        <link>https://ryanincn11.me/en/links/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://ryanincn11.me/en/links/</guid>
+        <description>&lt;p&gt;Here will be some of my works and interesting websites.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Search</title>
+        <link>https://ryanincn11.me/en/search/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://ryanincn11.me/en/search/</guid>
+        <description></description>
+        </item>
+        
+    </channel>
+</rss>
